@@ -35,6 +35,8 @@ Practitioners who research phone numbers through public sources.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-scan` | A first scan and its output sections |
